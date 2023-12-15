@@ -7,4 +7,4 @@ main: cx.sfy.LagAssist.Main
 softdepend: [Vault]
 commands:
   lagassist:
-    description: The main command of LagAssist, a Performance Analysis and Optimization Tool.
+    description: The main command of LagAssist, a Performance Analysis and Optimization Tool
